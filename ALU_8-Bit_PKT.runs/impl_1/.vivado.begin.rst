@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="27368" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="18152" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="31488" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="26384" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="33776" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="21576" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="32940" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="24604" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="ystef" Host="LAPTOP-OKS212KI" Pid="33424" HostCore="8" HostMemory="07866892288">
+    </Process>
+</ProcessHandle>

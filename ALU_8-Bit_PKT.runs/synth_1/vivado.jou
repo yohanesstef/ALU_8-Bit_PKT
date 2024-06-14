@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Jun 14 08:11:21 2024
+# Process ID: 23456
+# Current directory: E:/Projects/Vivado/ALU_8-Bit_PKT/ALU_8-Bit_PKT.runs/synth_1
+# Command line: vivado.exe -log ALU_8_Bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU_8_Bit.tcl
+# Log file: E:/Projects/Vivado/ALU_8-Bit_PKT/ALU_8-Bit_PKT.runs/synth_1/ALU_8_Bit.vds
+# Journal file: E:/Projects/Vivado/ALU_8-Bit_PKT/ALU_8-Bit_PKT.runs/synth_1\vivado.jou
+# Running On: LAPTOP-OKS212KI, OS: Windows, CPU Frequency: 2595 MHz, CPU Physical cores: 8, Host memory: 7866 MB
+#-----------------------------------------------------------
+source ALU_8_Bit.tcl -notrace

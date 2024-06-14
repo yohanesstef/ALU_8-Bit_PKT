@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Vivado/ALU_8-Bit_PKT/ALU_8-Bit_PKT.srcs/sources_1/new/ALU_8_Bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_8_Bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Vivado/ALU_8-Bit_PKT/ALU_8-Bit_PKT.srcs/sim_1/new/ALU_8_Bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_8_Bit_tb
